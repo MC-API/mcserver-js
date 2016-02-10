@@ -1,0 +1,19 @@
+{
+  "name": "mcserver-js",
+  "version": "1.0.0",
+  "description": "JavaScript interface for MC-API.net server api",
+  "keywords" : ["minecraft", "mc-api", "mcapi", "uuid", "mcserver.js", "mcserverjs", "mcserver-js", "server", "ping", "favicon"],
+  "main": "src/mcserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MC-API/mcserver-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MC-API/mcserver-js/issues"
+  },
+  "license" : "MIT",
+  "homepage": "https://github.com/MC-API/mcserver-js"
+}
